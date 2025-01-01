@@ -84,6 +84,7 @@ In timing diagram Q0 is changing as soon as the negative edge of clock pulse is 
 endmodule
 
 **RTL LOGIC FOR 4 Bit Ripple Counter**
+
 ![image](https://github.com/user-attachments/assets/4103981b-ca4b-4689-ac0e-837a40eaa301)
 
 **TIMING DIGRAMS FOR 4 Bit Ripple Counter**
